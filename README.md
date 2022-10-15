@@ -19,7 +19,11 @@ This script is mainly a way to get screenshots and videos of your switch without
 
 ### Procedure
 
-Clone the repo or download the zip and unpack it. Then run 
+Clone the repo or download the zip and unpack it. Rename the example_config.txt file to config.txt and
+fill in the required information from your twitter developer account between the quotation marks. You can find
+your twitter id [here](https://tweeterid.com/).
+
+After filling out your configuration file, run 
 ```
 python3 switch-media-downloader.py
 ```
