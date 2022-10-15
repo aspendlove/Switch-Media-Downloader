@@ -15,7 +15,7 @@ This script is mainly a way to get screenshots and videos of your switch without
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 - [gallery-dl](https://github.com/mikf/gallery-dl)
-- python3
+- [Python 3](https://www.python.org/)
 
 ### Procedure
 
