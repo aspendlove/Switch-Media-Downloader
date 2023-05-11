@@ -1,5 +1,7 @@
 # Switch Media Downloader
 
+## This project is discontinued due to the increased price of Twitter API keys. As of the last update it is still functioning, but will not receive updates.
+
 Automatically downloads any video / picture posted to a specific Twitter user's timeline.
 
 When run on a file server, it will continually watch for new tweets on a specified account. When you post a tweet from your Nintendo Switch, the service will automatically download the media contained in the tweet.
